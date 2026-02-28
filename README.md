@@ -1,1 +1,1 @@
-# Caesar-encryption
+This is a website that encrypts and decrypts messages using the Caesar cipher. The user enters the message and the key, then clicks encrypt. To decrypt, the user enters the key with a negative value. The script can encrypt and decrypt letters, numbers, and some special characters.
